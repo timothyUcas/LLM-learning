@@ -1,0 +1,8 @@
+{
+  "name": "LLM Development Environment",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "ms-python.python",
+    "ms-azuretools.vscode-docker"
+  ]
+}
